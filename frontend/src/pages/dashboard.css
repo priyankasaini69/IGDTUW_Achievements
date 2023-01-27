@@ -1,0 +1,41 @@
+.Dashboard {
+  text-align: center;
+  font-family: "play", sans-serif;
+  display: flex;
+  background: url(../images/bg5.jpg) center center/cover;
+}
+.SideNav {
+  height: 100vh;
+  position: sticky;
+  top: 0;
+  /* width: fit-content; */
+}
+
+/* .MainContent {
+} */
+
+/* .Dashboard > .MainContent > h1 {
+  color: aliceblue;
+  font-size: 3rem;
+
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+} */
+
+h1 {
+  color: aliceblue;
+  font-size: 3rem;
+
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.person {
+  margin-top: 1rem;
+  border-radius: 100%;
+  height: 5rem;
+  width: 5rem;
+  border: 0.15rem solid black;
+}
