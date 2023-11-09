@@ -1,1 +1,1 @@
-# IGDTUW_Achievements
+# IGDTUW-Achievements
